@@ -1,0 +1,38 @@
+Job Title: Junior/Associate Full Stack Web Developer
+
+Location: Noida, India (or Remote within India)
+
+About Us:
+[Company Name] is seeking an enthusiastic and dedicated Junior/Associate Full Stack Web Developer to join our collaborative tech environment. We are looking for a rapid learner with a passion for building meaningful tech solutions and a desire to contribute value to our team.
+
+Job Description:
+We are looking for a proactive and skilled Full Stack Web Developer to contribute to the design, development, and maintenance of our web applications. The ideal candidate will have a strong foundation in modern web technologies and a keen interest in expanding their backend capabilities and problem-solving skills.
+
+Responsibilities:
+
+Develop and maintain front-end user interfaces using React and other modern web technologies.
+Implement and manage backend services using Node.js and Express.js, interacting with MongoDB databases.
+Contribute to the design and implementation of intuitive and responsive UI/UX.
+Participate in the full software development lifecycle, including debugging and testing.
+Collaborate effectively with team members on various projects.
+Apply problem-solving skills to overcome technical challenges.
+Engage in continuous learning, particularly in Data Structures and Algorithms, and new programming languages like Java.
+Required Skills and Qualifications:
+
+Bachelor's degree in Computer Application or a related field (or currently pursuing with strong academic performance).
+Strong foundational skills in React, Node.js, Express, and MongoDB.
+Proficiency in JavaScript, Python, C++, and C.
+Experience with web technologies including HTML5, CSS, Bootstrap, Vite, and Rest APIs.
+Familiarity with Git & GitHub for version control.
+Knowledge of Data Structures & Algorithms and Object-Oriented Programming principles.
+Demonstrated experience in developing full-stack projects, including user authentication and database integration.
+Ability to work effectively in a team environment.
+Excellent problem-solving, modular coding, and debugging skills.
+Proven ability to learn rapidly and adapt to new technologies.
+Preferred Qualifications:
+
+Experience with data analysis and machine learning concepts, particularly with Python libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn.
+Familiarity with building interactive dashboards using frameworks like Tkinter.
+Certifications in Responsive Web Design, JavaScript Algorithms and Data Structures, and Front End Development Libraries.
+To Apply:
+Please submit your resume along with links to your GitHub profile and any relevant projects.

@@ -1,0 +1,20 @@
+# Ignore Python cache and virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Ignore uploaded and temporary files
+uploaded_resume_*
+uploaded_jd_*
+jd_screenshot.png
+
+# Ignore Streamlit config and logs
+.streamlit/*.toml
+.streamlit/*.json
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
