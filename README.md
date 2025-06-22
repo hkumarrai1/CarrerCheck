@@ -2,6 +2,15 @@
 
 A powerful, fully offline tool to analyze your resume against job descriptions using ATS-style keyword and semantic matching, NLP section extraction, and live editing.
 
+---
+
+**Note:**
+
+- The screenshot+OCR feature (for extracting job descriptions from screenshots) requires Tesseract OCR and a graphical environment. This feature will not work on most cloud platforms (e.g., Streamlit Cloud) due to lack of GUI support. All other features work fully offline and on the web.
+- For best compatibility, run locally with Tesseract installed and in your PATH.
+
+---
+
 ## Features
 
 - Parse PDF, DOCX, and TXT resumes and job descriptions

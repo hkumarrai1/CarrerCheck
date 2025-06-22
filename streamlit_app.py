@@ -4,9 +4,6 @@ from keyword_matcher import extract_keywords, calculate_overlap
 from semantic_matcher import compute_semantic_similarity
 import difflib
 import pyperclip
-import pyautogui  # type: ignore
-from PIL import Image
-import pytesseract  # type: ignore
 import os
 from advanced_section_extractor import extract_skills_nlp, extract_education_nlp, extract_experience_nlp
 from streamlit_option_menu import option_menu
@@ -102,6 +99,11 @@ elif selected == "Job Description":
         if running_on_cloud:
             st.error("OCR screenshot feature is not supported on this platform. To use this feature, please run the app locally.\n\nYou can download and run the full app from GitHub: [https://github.com/yourusername/resume-ats-checker](https://github.com/yourusername/resume-ats-checker)")
             st.stop()
+        # --- Move these imports here ---
+        import pyautogui
+        from PIL import Image
+        import pytesseract
+        # ---
         st.info("After clicking OK, select the region of your screen with the job description.")
         st.warning("Make sure this Streamlit window is not covering the job description!")
         st.write("You have 3 seconds to switch to the target window.")
